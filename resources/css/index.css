@@ -1,0 +1,53 @@
+body {
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    background-color: ghostwhite;
+    color: darkslategray;
+}
+
+h1 {
+    text-align: center;
+}
+
+table {
+    margin: 0 auto;
+    border: 2px solid limegreen;
+    width: 650px;
+    background-color: antiquewhite;
+}
+
+h2 {
+    color: mediumseagreen;
+    text-align: center;
+}
+
+thead {
+    background-color: chartreuse;
+    vertical-align: middle;
+    display: table-header-group;
+}
+
+tr {
+    vertical-align: inherit;
+    border: 2px solid limegreen;
+}
+
+td {
+    border-top: 1px solid limegreen;
+}
+
+.tag {
+    font-family: monospace;
+    background-color: darkseagreen;
+    border-radius: 25px;
+    padding: 2px 4px;;
+    text-align: center;
+
+}
+
+.attribute {
+    font-family: monospace;
+    background-color: darkseagreen;
+    border-radius: 25px;
+    padding: 2px 4px;
+    text-align: center;
+}
